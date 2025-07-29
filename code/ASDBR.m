@@ -1,5 +1,4 @@
 function [x,err,ids] = ASDBR(y, Phi, lambda,iters)
-% the code for paper "Sparse Bayesian Learning and the Relevance Vector Machine".  
 threshold1 = 1e-2;
 [M,N] = size(Phi) ;
 x = zeros(N,1) ;
