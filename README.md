@@ -1,1 +1,1 @@
-Ccode for the paper "Adaptive support driven Bayesian reweighted algorithm for sparse signal recovery"
+Code for the paper "Adaptive support driven Bayesian reweighted algorithm for sparse signal recovery"
